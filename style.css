@@ -1,0 +1,84 @@
+body{
+    font-family: "Poppins", serif;
+      
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+ margin-left: 10%;
+ padding-top: 10%;   
+ display: inline-block;
+
+
+ 
+}
+img{
+    width: 100%;
+    
+    
+    
+}
+.name-highlight{
+    color:rgb(183, 24, 64);
+    font-weight: 700;
+}
+.no-dec{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(183, 24, 64),rgb(156, 103, 116));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.top-banner{background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 1000px;
+   
+  
+}
+.section{
+    height: 500px;
+    
+  
+  
+}
+.size{
+    width: 30%;
+}
+.half{
+    
+    width: 300px;
+    padding: 10px 0px 0px 250px;
+    display: inline-block;
+
+}
+
+.middle-banner{
+    background-image: url("images/biography-bg.png");
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    height:500px ;
+    background-repeat: no-repeat;
+    
+}
+.gmail{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, rgb(183, 24, 64),rgb(156, 103, 116));
+    border-radius: 10px;
+    color: white;
+    padding: 30px 30px;
+    font-weight: 700;
+    
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+}
